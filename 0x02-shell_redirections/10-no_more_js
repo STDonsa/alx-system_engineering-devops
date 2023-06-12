@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type f "*.js" rm f | wc -l 
+find . -type f "*.js" rm | wc 
